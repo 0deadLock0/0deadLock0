@@ -42,6 +42,9 @@ Where to find me:
 	<a target="_blank" rel="noopener noreferrer" href="https://auth.geeksforgeeks.org/user/0deadlock0" target="_blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" alt="GFG" height="30" width="40" />
 	</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://leetcode.com/guptaabhimanyu23/" target="_blank">
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+	</a>
 	<a target="_blank" rel="noopener noreferrer" href="https://github.com/0deadLock0" target="_blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="GitHub" height="30" width="40" />
 	</a>
