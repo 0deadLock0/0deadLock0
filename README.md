@@ -81,6 +81,11 @@ Languages and Tools:
 	<a href="https://www.w3schools.com/css/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 	</a>
+	
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+		<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" width="40" height="40"/>
+	</a>
 </p>
 
 <p>
