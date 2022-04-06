@@ -7,7 +7,7 @@ Hello👋🏻, I'm Abhimanyu Gupta
 </h1>
 
 <h3 align="center">
-A Computer Science stduent from India
+A Computer Science student from India
 </h3>
 
 <br>
