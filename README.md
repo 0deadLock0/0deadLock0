@@ -16,10 +16,10 @@ A Computer Science student from India
 	<img src="https://komarev.com/ghpvc/?username=0deadLock0&label=Profile%20views&color=f53f2b&style=plastic" alt="0deadLock0" />
 </p>
 
-
 <h3 align="left">
 Where to find me:
 </h3>
+
 <p align="left">
 	<a href="https://t.me/deadLocks0" target="_blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/telegram.svg" alt="Telegram" height="30" width="40" />
@@ -56,6 +56,7 @@ Where to find me:
 <h3 align="left">
 Languages and Tools:
 </h3>
+
 <p align="left">
 	<a href="https://www.cprogramming.com/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -86,9 +87,23 @@ Languages and Tools:
 	</a>
 </p>
 
+<h3 align="left">
+GitHub Stats
+</h3>
+
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0deadLock0&show_icons=true&locale=en&layout=flat&theme=highcontrast&title_color=42f584&hide_border=true&hide=jupyter%20notebook,processing" alt="0deadLock0" />
 </p>
 <p>&nbsp;
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=0deadLock0&show_icons=true&theme=highcontrast&title_color=42f584&icon_color=f53f2b&hide_border=true&count_private=true&line_height=40" alt="0deadLock0" />
+</p>
+
+<h3 align="left">
+WakaTime Stats
+</h3>
+
+<p align="left">
+	<a href="https://wakatime.com/@0deadLock0">
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=0deadLock0&layout=compact&theme=dark" width="400" title="My Wakatime Stats">
+	</a>
 </p>
