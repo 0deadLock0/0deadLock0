@@ -104,6 +104,6 @@ WakaTime Stats
 
 <p align="left">
 	<a href="https://wakatime.com/@0deadLock0">
-		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=0deadLock0&layout=compact&theme=dark&v=2" width="400" title="My Wakatime Stats">
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=0deadLock0&layout=compact&theme=dark" width="400" title="My Wakatime Stats">
 	</a>
 </p>
